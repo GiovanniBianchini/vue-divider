@@ -53,21 +53,22 @@ p {
       Cupiditate sapiente quibusdam labore eaque odit. Unde illum mollitia doloremque fugiat dolorem non, esse aperiam
       animi iste nemo ad perspiciatis blanditiis minima id obcaecati quibusdam, ipsam illo quae, ut dolore.
     </p>
-  <Divider desktop="5rem" tablet="4rem" smartphone="3rem" :separatorLine="true" />
-  <h3>Lorem ipsum</h3>
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius sapiente necessitatibus libero. Expedita, ipsam odio
-    eveniet ea vero vitae exercitationem voluptatem distinctio, in natus doloribus, alias corrupti enim aperiam.
-    Excepturi?
-    Modi provident voluptates ratione non repellendus accusamus expedita autem ab minus dicta eaque quis corrupti, harum
-    asperiores est recusandae excepturi fugiat deleniti doloribus ea odit dignissimos. Vel quaerat tempore dolorum!
-    Suscipit provident in, aliquam laborum accusamus fugiat voluptas numquam consectetur commodi sed ipsum eveniet
-    pariatur dolore. Illum suscipit voluptates voluptatibus accusantium, est beatae modi, similique eveniet, unde minus
-    velit ipsum.
-    Corporis fugit earum doloribus consequatur libero sed reprehenderit quibusdam perferendis! Deleniti, error tempora.
-    Corrupti quibusdam velit ab assumenda fuga, numquam facere laborum molestias at dolores nihil recusandae harum rem
-    officia!
-    Impedit ullam incidunt dolorum, autem numquam quas odio inventore corporis consequatur. Deleniti veniam totam
-    assumenda expedita, rem accusantium omnis excepturi eligendi necessitatibus natus ipsa repellendus error itaque
-    accusamus illum. Eaque.</p>
-  <Divider desktop="10rem" tablet="8rem" smartphone="6rem" :separatorLine="true" />
-</div></template>
+    <Divider desktop="5rem" tablet="4rem" smartphone="3rem" :separatorLine="true" />
+    <h3>Lorem ipsum</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius sapiente necessitatibus libero. Expedita, ipsam odio
+      eveniet ea vero vitae exercitationem voluptatem distinctio, in natus doloribus, alias corrupti enim aperiam.
+      Excepturi?
+      Modi provident voluptates ratione non repellendus accusamus expedita autem ab minus dicta eaque quis corrupti, harum
+      asperiores est recusandae excepturi fugiat deleniti doloribus ea odit dignissimos. Vel quaerat tempore dolorum!
+      Suscipit provident in, aliquam laborum accusamus fugiat voluptas numquam consectetur commodi sed ipsum eveniet
+      pariatur dolore. Illum suscipit voluptates voluptatibus accusantium, est beatae modi, similique eveniet, unde minus
+      velit ipsum.
+      Corporis fugit earum doloribus consequatur libero sed reprehenderit quibusdam perferendis! Deleniti, error tempora.
+      Corrupti quibusdam velit ab assumenda fuga, numquam facere laborum molestias at dolores nihil recusandae harum rem
+      officia!
+      Impedit ullam incidunt dolorum, autem numquam quas odio inventore corporis consequatur. Deleniti veniam totam
+      assumenda expedita, rem accusantium omnis excepturi eligendi necessitatibus natus ipsa repellendus error itaque
+      accusamus illum. Eaque.</p>
+    <Divider desktop="10rem" tablet="8rem" smartphone="6rem" :separatorLine="true" />
+  </div>
+</template>
