@@ -8,14 +8,14 @@
  * Define props value that will be passed from components use
  */
 const props = defineProps({
-    desktop: String, /* number */
-    tablet: String, /* number */
-    smartphone: String, /* number */
+    desktop: String, /* string as number because it contains also the unit */
+    tablet: String, /* string as number because it contains also the unit */
+    smartphone: String, /* string as number because it contains also the unit */
     dividerColor: String, /* color value */
     separatorLine: Boolean, /* show separator line or not */
     separatorPosition: String, /* left, center, right */
-    separatorWidth: String, /* as number because it contains also the unit */
-    separatorHeight: String, /* as number because it contains also the unit */
+    separatorWidth: String, /* string as number because it contains also the unit */
+    separatorHeight: String, /* string as number because it contains also the unit */
     separatorColor: String /* color value */
 });
 
