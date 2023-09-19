@@ -21,7 +21,7 @@ const props = defineProps({
 
 /**
  * Define a var to set up divider height based on viewport width. 
- * It'll start with the desktop value to avoid a unwanted behavior because of TTFB
+ * It'll start with the desktop value to avoid an unwanted behavior because of TTFB
  */
 let size:any = ref(props.desktop);
 
